@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! 👋
+
+just starting out. More will come!
+
 
 <!--
 **mats363/mats363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
