@@ -2,13 +2,13 @@
 
 Studying Front End Developer at Medieinstitutet and excited about:
 
-HTML
-CSS
-Javascript
-React
-Angular
-Typescript
-Node.js
+* HTML
+* CSS
+* Javascript
+* React
+* Angular
+* Typescript
+* Node.js
 
 
 
