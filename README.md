@@ -1,6 +1,15 @@
 ### Hey! 👋
 
-just starting out. More will come!
+Studying Front End Developer at Medieinstitutet and excited about:
+
+HTML
+CSS
+Javascript
+React
+Angular
+Typescript
+Node.js
+
 
 
 <!--
