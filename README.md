@@ -1,17 +1,5 @@
 ### Hey! 👋
 
-Studying Front End Developer at Medieinstitutet and excited about:
-
-* Javascript
-* Typescript
-* React
-* NextJS
-* CSS/SCSS
-* HTML
-* Node.js
-
-
-
 <!--
 **mats363/mats363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
